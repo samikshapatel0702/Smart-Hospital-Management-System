@@ -154,7 +154,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Priyanshu Nishad**
+**Samiksha Patel**
 
 B.Tech Biotechnology
 Noida Institute of Engineering and Technology (NIET), Greater Noida
